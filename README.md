@@ -41,7 +41,7 @@ Focused on building efficient, memory-safe and performance-oriented software usi
 
 ### 📫 Connect with me
 
-* LinkedIn: https://www.linkedin.com/in/victor-zintzun/
+* LinkedIn: https://www.linkedin.com/in/VZintzun/
 
 ---
 
